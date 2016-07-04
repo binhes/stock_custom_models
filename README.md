@@ -1,0 +1,1 @@
+#odoo stock custom models
